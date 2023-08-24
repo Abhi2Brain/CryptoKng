@@ -20,7 +20,7 @@ const About = () => {
       textAlign={'center'}
       letterSpacing={["unset","widest"]}
       >
-       Greetings! I am Abhishek Kumar, currently in my final year of studies at Kamla Nehru Institue  of Technology, located in Sultanpur. I am pleased to share a project I have developed utilizing the ReactJs framework. Additionally, I invite you to stay connected through my various online platforms for upcoming updates. Your interest and support are greatly appreciated. Thank you!
+Hello and greetings! I am Abhishek Kumar, currently in the concluding year of my studies at Kamla Nehru Institute of Technology in Sultanpur. I am delighted to present a project that I have diligently crafted using the ReactJS framework. Furthermore, I extend a cordial invitation for you to stay connected with me through my diverse online platforms, ensuring you are well-informed about forthcoming updates. Your keen interest and invaluable support hold immense significance to me. Thank you for your kind attention!
       </Text>
 
       <HStack marginTop={['9','14']} 
